@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Enable Auotmatic Wifi Connection</string>
+	</dict>
+	<key>HasRemovalPasscode</key>
+	<true/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>smart@pcloudy.com</string>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.A2D70D78-CE4C-47DA-AED1-09F4C12B077E</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>A2D70D78-CE4C-47DA-AED1-09F4C12B077E</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string> pCloudy-WiFi2</string>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures a password for profile removal</string>
+			<key>PayloadDisplayName</key>
+			<string>Profile Removal</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.profileRemovalPassword.33104CBB-03C3-4885-B6A3-E6DAEAB0100C</string>
+			<key>PayloadType</key>
+			<string>com.apple.profileRemovalPassword</string>
+			<key>PayloadUUID</key>
+			<string>33104CBB-03C3-4885-B6A3-E6DAEAB0100C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>RemovalPassword</key>
+			<string>12345</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enable Auotmatic Wifi Connection</string>
+	<key>PayloadDisplayName</key>
+	<string>pCloudy_wifi2</string>
+	<key>PayloadIdentifier</key>
+	<string>nbts-MacBook-Pro.BF40F4D0-48A0-4122-A25C-BCD90362763F</string>
+	<key>PayloadOrganization</key>
+	<string>SSTS Inc</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8BBE2A75-1435-4043-A77E-6CAD49186792</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
