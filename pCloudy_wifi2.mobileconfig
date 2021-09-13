@@ -8,7 +8,7 @@
 		<string>Enable Auotmatic Wifi Connection</string>
 	</dict>
 	<key>HasRemovalPasscode</key>
-	<true/>
+	<false/>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -43,22 +43,6 @@
 			<key>SSID_STR</key>
 			<string> pCloudy-WiFi2</string>
 		</dict>
-		<dict>
-			<key>PayloadDescription</key>
-			<string>Configures a password for profile removal</string>
-			<key>PayloadDisplayName</key>
-			<string>Profile Removal</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.profileRemovalPassword.33104CBB-03C3-4885-B6A3-E6DAEAB0100C</string>
-			<key>PayloadType</key>
-			<string>com.apple.profileRemovalPassword</string>
-			<key>PayloadUUID</key>
-			<string>33104CBB-03C3-4885-B6A3-E6DAEAB0100C</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>RemovalPassword</key>
-			<string>12345</string>
-		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>Enable Auotmatic Wifi Connection</string>
@@ -69,11 +53,11 @@
 	<key>PayloadOrganization</key>
 	<string>SSTS Inc</string>
 	<key>PayloadRemovalDisallowed</key>
-	<true/>
+	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>8BBE2A75-1435-4043-A77E-6CAD49186792</string>
+	<string>BD801E9A-0F6A-4C2B-B7F4-37D72924D077</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
