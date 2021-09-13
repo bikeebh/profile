@@ -31,17 +31,17 @@
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.A2D70D78-CE4C-47DA-AED1-09F4C12B077E</string>
+			<string>com.apple.wifi.managed.90943101-880F-4840-BF06-98035685DD1E</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>A2D70D78-CE4C-47DA-AED1-09F4C12B077E</string>
+			<string>90943101-880F-4840-BF06-98035685DD1E</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyType</key>
 			<string>None</string>
 			<key>SSID_STR</key>
-			<string> pCloudy-WiFi2</string>
+			<string>pCloudy-WiFi2</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -57,7 +57,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>BD801E9A-0F6A-4C2B-B7F4-37D72924D077</string>
+	<string>FAD9FAE8-BAAF-43B4-9537-34B95631F381</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
